@@ -1,0 +1,47 @@
+.featureWrapperHome{
+    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.featureTitle{
+    color: #fff;
+    max-width: 720px;
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0 auto;
+}
+
+.featureSubtitle{
+    color: #fff;
+    font-size: 25px;
+    font-weight: 400;
+    margin: 15px auto;
+}
+
+.featureField{
+    color: #fff;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 10px auto;
+}
+
+.inputField{
+    display: inline-block;
+    width: 450px;
+    font-size: 18px;
+    padding: 30px 10px;
+}
+
+.getStartedBtn{
+    display: inline-block;
+    width: 200px;
+    color: #fff;
+    font-size: 20px;
+    padding: 28px 20px;
+    text-decoration: none;
+    box-sizing: content-box;
+    background-color: #e43535;
+}
